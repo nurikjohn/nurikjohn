@@ -21,7 +21,7 @@ Check out my pinned repos to see what else I’ve been up to lately!
 **editor**: neovim btw  
 **stack**: javaScript/typeScript, node, tailwind, some python and go when I’m feeling spicy.
 
-### The vibe (not viBeCOdiNg)
+### The vibe
 
 write code, drink tea (or coffee), tweak dotfiles, repeat.  
 enjoy the process, build in public, and stay **curious** ☕💻🌌
