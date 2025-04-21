@@ -3,6 +3,7 @@
 ### A bit about me
 
 Hey! I’m Nurik (short for **Nuriddin** — pronounced *Noo-reed-deen*), and welcome to my GitHub page 👋
+
 I’m all about learning in public, building cool things (sometimes weird things), and leveling up one commit at a time. Whether it’s web development, open source tools, or just exploring tech for fun — I’m here for it.
 
 Also, I love cats 😺. Just putting that out there.
