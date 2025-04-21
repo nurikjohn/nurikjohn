@@ -18,8 +18,8 @@ Check out my pinned repos to see what else I’ve been up to lately!
 
 ### Nerd Corner
 
-**keyboards**: zsa voyager (split gang ✌️) — custom layout, all the layers, all the nerdy joy.  
-**editor**: neovim all the way — minimal, fast, and fully tricked out.  
+**keyboards**: zsa voyager (split gang ✌️)
+**editor**: neovim btw
 **stack**: javaScript/typeScript, node, tailwind, some python and go when I’m feeling spicy.
 
 ### The vibe
