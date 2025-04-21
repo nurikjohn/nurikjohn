@@ -19,7 +19,9 @@ Check out my pinned repos to see what else I’ve been up to lately!
 ### Nerd Corner
 
 **keyboards**: zsa voyager (split gang ✌️)
+
 **editor**: neovim btw
+
 **stack**: javaScript/typeScript, node, tailwind, some python and go when I’m feeling spicy.
 
 ### The vibe
