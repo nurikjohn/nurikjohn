@@ -15,13 +15,13 @@ One project I’m especially excited about is [tandir.app](http://tandir.app) �
 
 Check out my pinned repos to see what else I’ve been up to lately!
 
-### Nerd Corner
+### Nerd corner
 
 **keyboards**: zsa voyager (split gang ✌️)  
 **editor**: neovim btw  
 **stack**: javaScript/typeScript, node, tailwind, some python and go when I’m feeling spicy.
 
-### The vibe
+### The vibe (not vIbeCOdiNg)
 
 write code, drink tea (or coffee), tweak dotfiles, repeat.  
 enjoy the process, build in public, and stay **curious** ☕💻🌌
